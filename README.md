@@ -2,6 +2,8 @@
 
 You can use a number of data preview and data visualization components in order to make your dataset more insightful. 
 
+[toc]
+
 ### Catalog 
 
 If your dataset is part of a larger dataset collection, you may want to start by listing the related datasets here in a catalog-like component with search and facets like this one: 
