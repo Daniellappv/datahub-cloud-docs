@@ -1,6 +1,4 @@
-# Datahub Cloud
-
-## Docs 
+# Docs 
 
 You can use a number of data preview and data visualization components in order to make your dataset more insightful. 
 
